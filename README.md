@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @D4uranbek
 - 👀 coding, ping-pong, intellectual games and anime 
-- 🌱 currently learning Java Backend in PDP Academy
+- 🌱 currently learning Java Backend at PDP Academy
 - 📫 https://t.me/D4uranbek
