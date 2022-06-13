@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I'm Dauranbek Abdiganiev
-👀 coding, ping-pong, intellectual games and anime
-👨‍💻 currently working at Asakabank
-📫 https://t.me/D4uranbek
+- 👋 Hi, I'm Dauranbek Abdiganiev
+- 👀 coding, ping-pong, intellectual games and anime
+- 👨‍💻 currently working at Asakabank
+- 📫 https://t.me/D4uranbek
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d4uranbek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d4uranbek) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@d4uranbek) 
